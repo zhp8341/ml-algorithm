@@ -2,13 +2,9 @@
 
 ### 1、创建python虚拟环境
 
-<<<<<<< Local Changes
-     python版本 3.7.5
-     python -m venv ./venv
-=======
      本项目使用的python版本 3.7.5
      python3.7 -m venv ./venv
->>>>>>> External Changes
+
 
 ### 2、安装依赖库
 
